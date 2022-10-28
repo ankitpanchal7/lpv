@@ -16,7 +16,6 @@ Fetches the upcoming events from the 3rd party API services using json.
 4. Activate this plugin
 
 
-
 WP CLI Command:
 wp lps import_events
 
@@ -30,3 +29,6 @@ The link of this json file will be rendered on the top left corner of the upcomi
 
 Event automatically exported when wp cli command executed.
 
+Estimated time:
+4 Hours
+It took 4:47 hours to complete.
